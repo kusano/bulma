@@ -1,0 +1,2 @@
+sass custom/ctfcoppersmith.scss > css/bulma_ctfcoppersmith.css
+cleancss -o css/bulma_ctfcoppersmith.css.min.css css/bulma_ctfcoppersmith.css
